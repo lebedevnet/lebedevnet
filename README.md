@@ -1,71 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andrey%20Lebedev&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Marketing%20%2F%20Fullstack%20%2F%20Sales&descSize=18&descAlignY=58&descColor=ffffffcc&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Andrey%20Lebedev&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Marketing%20%2F%20Sales%20%2F%20Fullstack%20Development&descSize=18&descAlignY=58&descColor=ffffffcc&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://@lebedevnet)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebedevnet@proton.me)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=lebedevnet&color=00e87a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lebedevnet)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lebedevnet) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lebedevnet@proton.me)
 
 </div>
 
 ---
 
-## 01 — About
+## About
 
 E-commerce & Digital Marketing specialist with 3+ years of experience. Built and optimized online stores, automated business processes, and created content at partworks GmbH. Studying Business Informatics at Universität Paderborn.
 
-<table><tr>
-<td><b>📍 Location</b><br/>Moskow, Russia</td>
-<td><b>⌗ Experience</b><br/>partworks GmbH / 3,5 years</td>
-<td><b>◎ Education</b><br/>University of Paderborn</td>
-<td><b>⟳ Learning</b><br/>Python</td>
-</tr></table>
-
-> ⚡ **Fun fact:** I was on the north pole
+📍 **Location** &nbsp; Moskow, Russia
+⌗ **Experience** &nbsp; 3,5 years at partworks GmbH as an IT trainee
+◎ **Education** &nbsp; University of Paderborn
+⟳ **Learning** &nbsp; Python, CRM-marketing
 
 ---
 
-## 02 — Stack
+## Stack
 
-**Languages:**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages"/>
 
-**Frontend:**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="Frontend"/>
 
-**Backend & Databases:**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" alt="Backend & Databases"/>
 
-**DevOps & Cloud:**
+**DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,figma&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
-## 03 — Languages
+## Languages
 
 <div align="center">
 
-| Language | Level | Proficiency |
-|:---:|:---:|:---:|
-| 🇬🇧 English | Native | 🟩🟩🟩🟩🟩 |
-| 🇷🇺 Russian | Native | 🟩🟩🟩🟩🟩 |
-| 🇩🇪 German | Native | 🟩🟩🟩🟩🟩 |
+| &nbsp; | Language | Level |
+|:---:|:---|:---:|
+| 🇬🇧 | English | ![Advanced](https://img.shields.io/badge/Advanced-66bb6a?style=flat-square) |
+| 🇷🇺 | Russian | ![Native](https://img.shields.io/badge/Native-00e87a?style=flat-square) |
+| 🇩🇪 | German | ![Advanced](https://img.shields.io/badge/Advanced-66bb6a?style=flat-square) |
 
 </div>
 
 ---
 
-## 04 — GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,17 +75,7 @@ E-commerce & Digital Marketing specialist with 3+ years of experience. Built and
 
 ---
 
-## 05 — Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebedevnet&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
-
-</div>
-
----
-
-## 06 — Activity
+## Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lebedevnet&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -101,16 +83,8 @@ E-commerce & Digital Marketing specialist with 3+ years of experience. Built and
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/lebedevnet">github.com/lebedevnet</a></sub>
 
-</div>
-
----
-
-<div align="center">
-
-⭐ From [lebedevnet](https://github.com/lebedevnet) — thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=100&section=footer" width="100%"/>
 
 </div>
