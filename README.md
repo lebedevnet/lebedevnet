@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=240&section=header&text=Andrey%20Lebedev&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Marketing%20%2F%20Fullstack%20%2F%20Support&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Andrey%20Lebedev&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Marketing%20%2F%20Fullstack%20%2F%20Support&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lebedevnet) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lebedevnet@proton.me) ![Profile Views](https://komarev.com/ghpvc/?username=lebedevnet&color=14b8a6&style=flat-square)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lebedevnet) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lebedevnet@proton.me) ![Profile Views](https://komarev.com/ghpvc/?username=lebedevnet&color=a855f7&style=flat-square)
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-14b8a6?style=flat-square) [![Building · ReadmeForge](https://img.shields.io/badge/Building%20%E2%86%92%20ReadmeForge-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/lebedevnet/ReadmeForge) ![Moscow / UTC +3](https://img.shields.io/badge/Moscow%20%2F%20UTC%20%2B3-333?style=flat-square)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square) [![Building · ReadmeForge](https://img.shields.io/badge/Building%20%E2%86%92%20ReadmeForge-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/lebedevnet/ReadmeForge) ![Moscow | UTC +3](https://img.shields.io/badge/Moscow%20%7C%20UTC%20%2B3-333?style=flat-square)
 
 </div>
 
@@ -19,33 +19,35 @@ E-commerce & Digital Marketing specialist with 3+ years of experience. Built and
 ◎ **Education** &nbsp; University of Paderborn <br/>
 ⟳ **Learning** &nbsp; CRM-Marketing, Python
 
+✦ **Fun fact** &nbsp; I was on the north pole
+
 ---
 
 ### Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,vite&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,vscode,figma&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,vscode,figma&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
 ### Languages
 
-🇬🇧 **English** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
+🇬🇧 **English** &nbsp; ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow?style=flat-square) <br/>
+🇩🇪 **German** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
 🇷🇺 **Russian** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
-🇩🇪 **German** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
 
 ---
 
@@ -71,6 +73,6 @@ E-commerce & Digital Marketing specialist with 3+ years of experience. Built and
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/lebedevnet">github.com/lebedevnet</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
 
 </div>
